@@ -10,6 +10,9 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
+  border-style: solid;
+  border-color: rgb(241, 149, 28);
+  border-width: 5px 5px 5px 5px;
 }
 
 .card-container:hover {
