@@ -1,0 +1,15 @@
+.search {
+  -webkit-appearance: none;
+  border: 2px solid rgb(255, 0, 170);
+  background: transparent;
+  border-radius: 30px;
+  outline: none;
+  padding: 10px;
+  width: 200px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+
+  text-align: center;
+  color: aliceblue;
+}
