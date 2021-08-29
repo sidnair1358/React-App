@@ -1,9 +1,9 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #95dada;
-  border: 1px solid grey;
-  border-radius: 5px;
+  background-color: #2cd0d6;
+  border: 10px solid grey;
+  border-radius: 8px;
   padding: 25px;
   cursor: pointer;
   -moz-osx-font-smoothing: grayscale;
@@ -11,7 +11,7 @@
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
   border-style: solid;
-  border-color: rgb(241, 149, 28);
+  border-image: linear-gradient(45deg, rgb(119, 0, 143), rgb(236, 23, 219)) 1;
   border-width: 5px 5px 5px 5px;
 }
 
